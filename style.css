@@ -1,0 +1,36 @@
+body{
+	background:#FFFFFF;
+}
+.principal{
+		padding:10px;
+		background:#ADD8E6;
+}
+.titulo-principal{
+	padding-left: 30px
+}
+
+#banner{
+	width:100%;
+
+}
+.titulo-centralizado{
+	text-align:center;
+}
+p{
+	text-align:center;
+}
+.html5-css3-partI{
+	padding:20px;
+
+}
+ul{
+		display:inline-block;
+	vertical-align:top;
+	width: 20%;
+	margin-right:15%;
+
+}
+#imagem1{
+	width:30%;
+	padding:20px;
+}
